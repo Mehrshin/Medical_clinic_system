@@ -1,0 +1,4 @@
+Josie,Muler,21-07-1990,F,3333 rue jean talon,5149985162,Pt2460,Desjardins
+Amanda,Sandy,24-06-1985,F,5674 rue sherbrooke,4381234567,Pt3456,something
+Anna,Karen,21-01-1956,F,5434 rue de dieppe,5146559111,Pt4756,Beneva
+Raul,Niagara,17-11-1959,M,8732 mont royal,5141234567,Pt7352,Cigna Global

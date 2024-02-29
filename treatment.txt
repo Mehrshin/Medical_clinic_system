@@ -1,0 +1,6 @@
+hand pain,Josie,Muler,Jack,Enderson,21-03-1920,3,2,diabetics
+headache,Amanda,Sandy,Simon,Barthelemy,02-04-1920,2,3,xx
+back pain,Raul,Niagara,Sarah,Parker,03-05-2022,2,3,some
+hand physiothrapy,Josie,Muler,Jack,Enderson,02-05-2021,2,4,some thing
+orthopedic cares,Amanda,Sandy,Simon,Barthelemy,03-04-2021,2,4,some notes
+intensive care,Josie,Muler,Jerry,Johnson,03-05-2023,5,1,critical conditions
